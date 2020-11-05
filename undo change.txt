@@ -1,0 +1,16 @@
+undo uncommited change by using
+
+git checkout -- filename
+
+undo commited change by using
+
+git revert commitID
+
+Reset a revert by using 
+
+git reset --hard commit ID (hazardious to do, so beware)
+
+https://www.youtube.com/watch?v=3dk3s4LK-Wg
+
+
+
