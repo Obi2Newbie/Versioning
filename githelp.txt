@@ -3,3 +3,22 @@ https://github.com/Obi2Newbie/Versioning.git
 git config --global user.email kevinroussety1@gmail.com
 
 git config --global user.name "Obi2Newbie"
+
+git init (new repo)
+
+git commit -m "first commit"
+
+git add . (add all)
+
+git rm --cached text.md (for deletetion)
+
+git branch XD (create new branch)
+
+git checkout login(navigation)
+
+git merge test(merge all code from test to the master branch)
+
+git remote add Versioning repo-link-goes-here(create new remote repo)
+
+git push -u Versioning master(push data to repo)
+
