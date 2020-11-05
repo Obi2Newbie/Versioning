@@ -22,3 +22,4 @@ git remote add Versioning repo-link-goes-here(create new remote repo)
 
 git push -u Versioning master(push data to repo)
 
+git pull link-goes-here
