@@ -1,0 +1,5 @@
+https://github.com/Obi2Newbie/Versioning.git
+
+git config --global user.email kevinroussety1@gmail.com
+
+git config --global user.name "Obi2Newbie"
